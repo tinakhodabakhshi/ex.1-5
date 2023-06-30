@@ -1,0 +1,120 @@
+/* Your styles here */
+body{
+    
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65;
+}
+.firs-container{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    padding-top: 100px;
+    padding: 2em 1.5em;
+}
+h1,h3{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5rem;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.second-container{
+    background-image: url(../images/banner.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5rem;
+    text-align: center;
+    height: 300px;
+    
+}
+div h1 p {
+    padding-top: 80px;
+    text-align: center;
+}
+form{
+    padding: 50px;
+}
+.buttom{
+    background-color: #f04c2f;
+    color: white;
+   border: none;
+   border-radius: 3px;
+   width: 90px;
+   height: 40px;
+   padding: 10px;
+   text-align: center;
+}
+.text {
+    text-align: center;
+padding-bottom: 20px;
+}
+.container-a{
+    text-align: center;
+    padding-top: 50px;
+   }
+   article div img{
+    border-radius: 100%;
+   
+   }
+   .container-b{
+    background-color: #e22d0e;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    height: 200px;
+   }
+   h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5rem;
+    font-size: 2rem;
+    padding-top: 50px;
+    padding-bottom: 20px;
+   }
+   #test-b{
+    line-height: 1.5rem;
+    padding-top: 20px;
+    padding-bottom: 0%;
+   }
+   .container-last{
+    text-align: center;
+    padding-bottom: 50px;
+    border-bottom: 1px solid lightslategray;
+    margin-inline: auto;
+    
+    
+   }
+   .photo{
+    padding-top: 50px;
+   }
+footer div{
+    text-align: center;
+    background-color: #25a2c3;
+    padding-bottom: 20px;
+    line-height: 1.65;
+    height: 300px;
+}
+
+footer div h2{
+    color: white;
+}
+footer div p {
+    color: #c8e7f0;
+}
+
+footer div a{
+    color: #c8e7f0;
+}
+#last{
+      border-top: 1px solid lightblue;
+    width: 300px;
+    height: 70px;
+    margin-inline: auto;
+}

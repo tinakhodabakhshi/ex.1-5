@@ -1,0 +1,134 @@
+
+
+.firs-container{
+    background-color: black;
+}
+.second-container{
+    background-image: url(../images/banner.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5rem;
+  height: 500px;
+  text-align: center;
+    
+}
+h1,h3{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5rem;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 30px;}
+    .buttom{
+        background-color: #f04c2f;
+        color: white;
+       border: none;
+       border-radius: 3px;
+       width: 90px;
+       height: 40px;
+       padding: 10px;
+       text-align: center;
+       
+    }
+    form{
+        padding-top: 60px;
+    }
+ .div1{
+    display: inline;
+      width: 400px;
+      height: 300px;
+ }
+ .dive2{
+    display: inline-block;
+      width: 400px;
+      height: 200px;
+ }
+ article div img{
+    border-radius: 100%;
+ }
+   article{
+   text-align: center;
+   padding-bottom: 50px;
+   }
+   p{
+    font-family: 'Montserrat', sans-serif;
+   }
+   .container-b{
+    background-color: #e22d0e;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    height: 200px;
+   }
+   
+    h2{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        line-height: 1.5rem;
+        font-size: 2rem;
+        padding-top: 50px;
+        padding-bottom: 20px;
+   }
+   #test-b{
+    line-height: 1.5rem;
+    padding-top: 20px;
+    padding-bottom: 0%;
+   }
+   .card-section img{
+    width: 250px;
+    height:150px ;
+    object-fit: cover;
+   }
+   .container-last{
+    display: inline-block;
+    width: 250px;
+    height: 100;
+    
+   }
+   #div1{
+    border-bottom: 1px solid lightslategray;
+   
+   }
+   #div2{
+    border-bottom: 1px solid lightslategray;
+ 
+   }
+   #div3{
+    border-bottom: 1px solid lightslategray;
+   }
+
+   section{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   }
+   footer div{
+    text-align: center;
+    background-color: #25a2c3;
+    padding-bottom: 20px;
+    line-height: 1.65;
+    height: 300px;
+   }
+    
+footer div h2{
+    color: white;
+}
+footer div p {
+    color: #c8e7f0;
+}
+footer div a{
+    color: #c8e7f0;
+}
+#last{
+    
+    border-top: 1px solid lightblue;
+    width: 300px;
+    height: 80px;
+    margin-inline: auto;
+    
+}
